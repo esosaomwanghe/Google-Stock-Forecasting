@@ -13,4 +13,4 @@ RMSE = 8.42 (vs ARIMA 14.7, XGBoost 11.3)
 **Tools**  
 Python • yfinance • TensorFlow/Keras • statsmodels • Tableau
 
-[← Back to Portfolio](https://esosaomwanghe.github.io)
+[← Back to Portfolio](https://github.com/esosaomwanghe)
