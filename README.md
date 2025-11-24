@@ -13,4 +13,8 @@ RMSE = 8.42 (vs ARIMA 14.7, XGBoost 11.3)
 **Tools**  
 Python • yfinance • TensorFlow/Keras • statsmodels • Tableau
 
+### Screenshots
+![Google Stock Price Dashboard](https://github.com/esosaomwanghe/Customer-Credit-Risk-Profiling-/blob/main/Customer%20Risk%20Profiling.png)
+*Interactive Tableau dashboard – full view*
+
 [← Back to Portfolio](https://github.com/esosaomwanghe)
